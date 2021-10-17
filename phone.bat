@@ -1,0 +1,1 @@
+scrcpy --window-title "ForezsFarm"
